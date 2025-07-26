@@ -4,6 +4,7 @@ export type ExperienceType = {
     title:string,
     company_name:string,
     date_info:string,
+    skills:string[],
     description:string
 }
 export const useInfoStore = create(() => ({
