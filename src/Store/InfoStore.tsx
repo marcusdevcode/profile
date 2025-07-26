@@ -64,7 +64,7 @@ export const useInfoStore = create(() => ({
         {
             company_name:"Freelance",
             title:"Freelance wordpress",
-            skills:["jQuery","CSS","HTML","PHP","PSD to Wordpress","Wordpress theme development"],
+            skills:["jQuery","CSS","HTML","PHP","PSD to Wordpress","Wordpress theme development","Wordpress plugin development","amoCRM API"],
             date_info:"March 2013 - May 2014",
             description:"Gained hands-on experience working on the front-end development of 10 WordPress websites over the course of one year. Collaborated on implementing responsive layouts, customizing themes, and enhancing site usability using HTML, CSS, and JavaScript. Developed a foundational understanding of PHP by assisting in theme modifications and minor back-end adjustments, supporting seamless integration between design and functionality."
         },
