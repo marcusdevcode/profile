@@ -1,0 +1,25 @@
+:root{
+    --font-En: "Encode Sans Expanded", sans-serif;
+    --font-Sen: "Sen", sans-serif;
+  --bg:#282927;
+}
+body{
+  background: var(--bg);
+}
+.en-font{
+    font-family:var(--font-En);
+    font-weight: 700;
+    font-style: normal;
+}
+.sen-font{
+    font-family: "Sen", sans-serif;
+    font-optical-sizing: auto;
+    &-med{
+        font-weight: 500;
+    }
+}
+
+
+@page {
+  size: A4 portrait;
+}
