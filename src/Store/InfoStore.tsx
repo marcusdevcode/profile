@@ -9,8 +9,8 @@ export type ExperienceType = {
 }
 export const useInfoStore = create(() => ({
     Summary:{
-        title:"Experienced WordPress & PHP Developer with 15+ Years in Web Development",
-        description:"WordPress, Laravel Backend developer with over 15 years of experience. I'm always willing to challenge myself to new horizons and find ways to improve everything around me. I have a huge passion for writing code, learning new technologies and applying them on real-life projects.\n" +
+        title:"Experienced WordPress & PHP Developer with 12+ Years in Web Development",
+        description:"WordPress, Laravel Backend developer with over 12 years of experience. I'm always willing to challenge myself to new horizons and find ways to improve everything around me. I have a huge passion for writing code, learning new technologies and applying them on real-life projects.\n" +
             "Experience with Elementor custom widgets and dynamic tags, wpbakery custom shortcodes, ACF, Gutenberg custom blocks, Divi Builder custom modules, Wordpress Bedrock.\n" +
             "Additionally have experience with HubSpot custom modules, mainly using Laravel theme Sage 10, Next, React, HubSpot, AI SDK, N8N."
     },
