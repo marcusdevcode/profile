@@ -86,7 +86,7 @@ function App() {
           </div>
           <div className="px-5 print:p-0 print:mt-1">
               <div className="text-[2rem] sen-font font-[700] print:text-[1.2rem]">Experience</div>
-              {infoStore.Experience.map((el,ind) =>(<Experience content={el} />))}
+              {infoStore.Experience.map((el,ind) =>(<Experience key={'experience-'+ind} content={el} />))}
           </div>
       </div>
   )
